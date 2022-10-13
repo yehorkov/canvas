@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#canvas_1 {
+    position: absolute;
+}
+
+.controls {
+    position: absolute;
+    z-index: 100;
+}
+
+img {
+    display: none;
+    width: 500px;
+    height: 500px;
+}
